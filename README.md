@@ -1,4 +1,4 @@
-# internship 2023.1
+# Internship 2023.1
 
 Всем привет!
 
