@@ -1,4 +1,4 @@
-# ml_internship_2023.1
+# internship 2023.1
 
 Всем привет!
 
